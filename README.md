@@ -1,5 +1,5 @@
 # PopCap-CD-Fixes
- Some simple fixes to allow for playing CD copies of PopCap games. The premise of these fixes is for when attempts at running the games in compatibility mode have failed and the last resort is to go digging into config files and the registry
+ Some simple fixes to allow for playing CD copies of PopCap games. The premise of these fixes is for when attempts at running the games in compatibility mode, and using additional DLL files such as WineD3D have failed and the last resort is to go digging into config files and the registry
 
  ## DISCLAIMERS
 * I am not the first and won't be the last person to try and fix these long since forgotten games, but I have limited machines available to test these fixes on. These fixes might work, or they might not, and I haven't tested them on a DRM (Steam etc.) version at all, so please **MAKE A BACKUP** of anything you modify using these instructions!
