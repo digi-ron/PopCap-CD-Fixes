@@ -1,0 +1,10 @@
+HWTEST::CardGUID=62,30,-73,-41,67,102,-49,17,-46,119,125,25,14,-62,-51,53
+HWTEST::HWTesterVersion=1
+HWTEST::CardChanged=false
+HWTEST::DXVersion=10.0.19041.1
+HWTEST::DXVersionChanged=false
+HWTEST::DeviceDescription=NVIDIA GeForce RTX 3060
+HWTEST::FailReason=Texture Switching Failed
+HWTEST::SafeModeRequired=false
+HWTEST::SafeModeRecommended=true
+HWTEST::Warnings=(none)
