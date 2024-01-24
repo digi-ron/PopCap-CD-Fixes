@@ -2,6 +2,7 @@
 
 ## Running Chuzzle Deluxe
 Generally Chuzzle will run with the following compatibility settings applied:
+
 ![Compatibility Settings](./Compat.png)
 
 ## Safe Mode Issues
