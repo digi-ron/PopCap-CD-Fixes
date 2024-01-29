@@ -20,4 +20,5 @@ Zuma's Revenge appears to run acceptably on Windows 10 without any further modif
         return 1200;
     }
     ```
+    ***NOTE: The original code was not added on purpose, I don't know how painful EA is and I have no intention on finding out***
 1. You should now be able to run the game using Hi-Res mode and with 3D Acceleration enabled
