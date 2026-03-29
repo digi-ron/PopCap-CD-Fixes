@@ -8,9 +8,9 @@
     - registry modifications
 
 ---
-*All fixes last tested: 23/01/2024, using a Machine with the following specs:*
+*All fixes last tested: 29/03/2026, using a Machine with the following specs:*
 - **Class:** Desktop
 - **CPU:** Intel Core i7 10700
 - **GPU:** NVIDIA RTX 3060
-- **OS:** Windows 10 22H2 (Build 19045.3930)
+- **OS:** Windows 11 25H2 (Build 26200.8037)
 ---

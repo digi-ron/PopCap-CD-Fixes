@@ -6,7 +6,7 @@ Zuma's Revenge appears to run acceptably on Windows 10 without any further modif
     ```
     C:\Program Files(x86)\PopCap Games\Zumas Revenge
     ```
-1. in this folder should be a file called ```compat.cfg```, which you can open with a text editor. look for a line that says ```function(int) GetAppDefaultRes```. Below that should be a set of braces which coitain logic for the default resolution to boot the game into:
+1. in this folder should be a file called ```compat.cfg```, which you can open with a text editor. look for a line that says ```function(int) GetAppDefaultRes```. Below that should be a set of braces which contain logic for the default resolution to boot the game into:
     ```js
     function(int) GetAppDefaultRes
     {
